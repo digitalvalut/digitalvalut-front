@@ -152,15 +152,30 @@ Siamo un **Ente del Terzo Settore (ETS) non profit**. Vendere software è **atti
 commerciale**: per un ETS ha limiti precisi. Decisione presa: **resta attività collaterale
 dentro l'ETS** (non si crea una SRL, per ora).
 
+**Statuto: già conforme** (APS "DIGITAL VALUT", C.F. 90036980846). La vendita software è
+prevista da: Art. 6 ("sviluppo e distribuzione di software"), Art. 7 ("commercializzazione
+di software... licenze di proprietà intellettuale"), Art. 29 ("royalties, licenze").
+**Nessuna modifica statutaria necessaria.**
+
 Regole da rispettare (D.Lgs. 117/2017 + DM 107/2021):
 
-1. **Statuto:** deve prevedere le "attività diverse" (vendita software/servizi). Se manca,
-   modificarlo **prima** di vendere.
+1. **Delibera del Consiglio Direttivo** che individua "commercializzazione software
+   DigitalValut" come attività diversa (Art. 7 u.c. + Art. 20 statuto). Serve **prima** di
+   vendere — è un verbale, non una modifica di statuto.
 2. **Tetto:** ricavi software **≤ 30% dei ricavi totali** *oppure* **≤ 66% dei costi totali**.
    È il limite che decide se restiamo ETS. Da monitorare ogni trimestre.
 3. **Contabilità separata** per l'attività commerciale (obbligatoria).
 4. **Tassazione:** il reddito commerciale è tassato (IRES); valutare regimi agevolati ETS.
-5. **Utili reinvestiti** nella missione, mai distribuiti.
+5. **Utili reinvestiti** nella missione, mai distribuiti (Art. 30 statuto).
+
+**Chi firma:** il Presidente (Art. 23 statuto) può sottoscrivere in autonomia il contratto
+col distributore e le licenze software ai clienti, senza passaggio in Assemblea.
+
+> ⚠️ **Verifica separata, urgente:** alcune clausole dell'Art. 24 (veto del Presidente
+> Fondatore, designazione successore, trasmissione ereditaria della qualità di socio)
+> potrebbero confliggere con la democraticità richiesta alle APS (artt. 23-24, 35 CTS).
+> Da far validare da un notaio/commercialista esperto di Terzo Settore: se il RUNTS le
+> contesta, è a rischio l'intera qualifica ETS.
 
 **Soglia-trigger (da definire ora):** quando i ricavi software si avvicinano al 30% dei
 ricavi totali → aprire una **SRL** (anche Impresa Sociale) controllata dall'ETS, prima di
