@@ -146,7 +146,59 @@ Target: **10 studi paganti** prima di pensare a scalare o a un distributore.
 
 ---
 
-## 9. Prossimo passo consigliato
+## 9. Vincolo ETS — vendere restando non profit
 
-Partire dal **giorno 0–30**: sito con prezzo pubblico + prova + pagamento self-serve, e la
-killer-demo. È l'unica cosa che ci rende **indipendenti da una rete commerciale**.
+Siamo un **Ente del Terzo Settore (ETS) non profit**. Vendere software è **attività
+commerciale**: per un ETS ha limiti precisi. Decisione presa: **resta attività collaterale
+dentro l'ETS** (non si crea una SRL, per ora).
+
+Regole da rispettare (D.Lgs. 117/2017 + DM 107/2021):
+
+1. **Statuto:** deve prevedere le "attività diverse" (vendita software/servizi). Se manca,
+   modificarlo **prima** di vendere.
+2. **Tetto:** ricavi software **≤ 30% dei ricavi totali** *oppure* **≤ 66% dei costi totali**.
+   È il limite che decide se restiamo ETS. Da monitorare ogni trimestre.
+3. **Contabilità separata** per l'attività commerciale (obbligatoria).
+4. **Tassazione:** il reddito commerciale è tassato (IRES); valutare regimi agevolati ETS.
+5. **Utili reinvestiti** nella missione, mai distribuiti.
+
+**Soglia-trigger (da definire ora):** quando i ricavi software si avvicinano al 30% dei
+ricavi totali → aprire una **SRL** (anche Impresa Sociale) controllata dall'ETS, prima di
+sforare e perdere la qualifica.
+
+> ⚠️ Panoramica per orientarsi, **non** consulenza legale/fiscale. Struttura e regimi vanno
+> validati da un **commercialista abilitato** sullo statuto reale e sui numeri attesi.
+
+---
+
+## 10. Canale di partenza: distributore in Sicilia
+
+Si parte dal territorio dove ha sede lo studio. Distributore **ancora da individuare**.
+
+**Profilo da cercare (in ordine di efficacia):**
+1. Ex-agente/rivenditore di gestionali (TeamSystem, Zucchetti, WK) ora in proprio — ha già
+   i contatti negli studi siciliani.
+2. Software house / consulente IT locale che assiste studi di commercialisti.
+3. Commercialista influente nell'Ordine (Catania, Palermo, ecc.).
+
+**Dove trovarli:** Ordini dei Dottori Commercialisti siciliani (eventi/PEC), LinkedIn,
+gruppi di categoria, passaparola dallo studio.
+
+**Struttura dell'accordo (coerente con l'ETS):**
+- Ruolo: procacciatore/rivenditore. **Niente esclusiva nazionale**; al massimo esclusiva
+  **regionale a tempo** (es. 12 mesi) con **obiettivi minimi** (decade se non raggiunti).
+- Commissione ricorrente **30–40%**.
+- **La licenza la emette l'ETS** → i ricavi restano nostri e tracciati nei limiti del §9.
+- Proprietà del software e rapporto col cliente **restano nostri**.
+- Tutto **per iscritto**: territorio, durata, minimi, IP, condizioni di uscita.
+
+---
+
+## 11. Prossimo passo consigliato
+
+1. **Verifica statuto ETS** (prevede le attività diverse?) con il commercialista + imposta il
+   monitoraggio del tetto 30%/66% e la soglia-trigger per la futura SRL.
+2. **Sito con prezzo pubblico + prova + pagamento self-serve** e killer-demo: ci rende
+   indipendenti da una rete commerciale.
+3. **Individuare 1 distributore in Sicilia** (profilo §10), accordo regionale non esclusivo
+   a tempo.
